@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7ed04877c37dff6d5f455540c4af147252e8158f",
+    "author": "bcjaeger <byron.jaeger@gmail.com>",
+    "time": "2024-03-10 17:14:23",
+    "files": 6,
+    "merge": false,
+    "message": "doc updates\n"
+  },
+  "repo": "https://github.com/ropensci/aorsf",
+  "pkg": "aorsf"
+}
