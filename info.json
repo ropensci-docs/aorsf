@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "085db7062d995eeafa4e210481d66af2eb02b8dc",
+    "author": "Byron <byron.jaeger@gmail.com>",
+    "time": "2026-02-05T18:44:09Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #80 from TylerSagendorf/update-scale_x\n\nImprove speed of `scale_x`"
+  },
+  "repo": "https://github.com/ropensci/aorsf",
+  "pkg": "aorsf",
+  "time": "2026-08-30T07:32:22Z"
+}
